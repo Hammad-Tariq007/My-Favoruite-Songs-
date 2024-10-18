@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #780000;
+    color: wheat;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.videos{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+li{
+    font-size: 1.5rem;
+}
+hr{
+    margin-left: 300px;
+    margin-right: 300px;
+}
+h1,h2{
+    text-align: center;
+    text-decoration: underline;
+}
